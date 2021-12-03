@@ -94,7 +94,7 @@ public function run(){
 
      }
      }
-    sleep(60);
+    sleep(180);
     endwhile;
 
 }

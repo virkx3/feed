@@ -66,7 +66,7 @@
                     <div class="input-group-prepend">
                       <span class="input-group-text"><i class="ni ni-world-2"></i></span>
                     </div>
-                  <input class="form-control" placeholder="76.62.22.118:8080@shiban:etayyzj" type="text" name="proxy" id="proxy"  autocomplete="off">
+                  <input class="form-control" placeholder="76.62.22.118:8080@virk:etayyzj" type="text" name="proxy" id="proxy"  autocomplete="off">
                   </div>
                 </div>
 
@@ -85,10 +85,10 @@
           </div>
           <div class="row mt-3">
             <div class="col-6">
-              <a href="www.instagram.com" class="text-light"><small>Forgot password?</small></a>
+              <a href="https://www.instagram.com/accounts/password/reset/" class="text-light"><small>Forgot password?</small></a>
             </div>
             <div class="col-6 text-right">
-              <a href="www.instagram.com" class="text-light"><small>Create new account</small></a>
+              <a href="https://www.instagram.com/accounts/signup/email" class="text-light"><small>Create new account</small></a>
             </div>
           </div>
         </div>

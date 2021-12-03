@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="Robolek.com otomatis menyukai kiriman di Instagram 24jam tanpa henti.">
+  <meta name="description" content="Auto Like works by using the target you specify and using their followers to like posts, which in return gives you reciprocal engagement in the form of likes and follows.">
   <meta name="language" content="ID">
   <meta name="coverage" content="Worldwide">
   <meta name="distribution" content="Global">
@@ -11,8 +11,8 @@
   <meta name="msapplication-navbutton-color" content="#5e72e4">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="#5e72e4">
-  <meta name="author" content="Ramadhani Pratama">
-  <title> - Sample Intagram feed Liker by Shiban Ashiq</title>
+  <meta name="author" content="Virk">
+  <title>Instagram Auto Liker - Best IG Liker - Instagram Bot Follower</title>
   <link href="/assets/img/brand/favicon.png" rel="icon" type="image/png">
   <meta property="og:image" content="../page/img/logo.jpg"/>
   <meta property="og:image:alt" content="../page/img/logo.jpg"/>
@@ -134,31 +134,31 @@
           <hr class="d-lg-none" />
           <ul class="navbar-nav align-items-lg-center ml-lg-auto">
             <li class="nav-item">
-              <a class="nav-link nav-link-icon" href="https://www.facebook.com/creativetim" target="_blank" data-toggle="tooltip" data-original-title="Like us on Facebook">
+              <a class="nav-link nav-link-icon" href="https://www.facebook.com/virk4" target="_blank" data-toggle="tooltip" data-original-title="Like us on Facebook">
                 <i class="fab fa-facebook-square"></i>
                 <span class="nav-link-inner--text d-lg-none">Facebook</span>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link nav-link-icon" href="https://www.instagram.com/creativetimofficial" target="_blank" data-toggle="tooltip" data-original-title="Follow us on Instagram">
+              <a class="nav-link nav-link-icon" href="https://www.instagram.com/virk_pb05_" target="_blank" data-toggle="tooltip" data-original-title="Follow us on Instagram">
                 <i class="fab fa-instagram"></i>
                 <span class="nav-link-inner--text d-lg-none">Instagram</span>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link nav-link-icon" href="https://twitter.com/creativetim" target="_blank" data-toggle="tooltip" data-original-title="Follow us on Twitter">
+              <a class="nav-link nav-link-icon" href="https://twitter.com/virk_pb05" target="_blank" data-toggle="tooltip" data-original-title="Follow us on Twitter">
                 <i class="fab fa-twitter-square"></i>
                 <span class="nav-link-inner--text d-lg-none">Twitter</span>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link nav-link-icon" href="https://github.com/creativetimofficial" target="_blank" data-toggle="tooltip" data-original-title="Star us on Github">
+              <a class="nav-link nav-link-icon" href="https://github.com/virkx3" target="_blank" data-toggle="tooltip" data-original-title="Star us on Github">
                 <i class="fab fa-github"></i>
                 <span class="nav-link-inner--text d-lg-none">Github</span>
               </a>
             </li>
             <li class="nav-item d-none d-lg-block ml-lg-4">
-              <a href="https://wa.me/918129297698" target="_blank" class="btn btn-neutral btn-icon">
+              <a href="https://www.instagram.com/virk_pb05_/" target="_blank" class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fas fa-shopping-cart mr-2"></i>
                 </span>
@@ -179,19 +179,19 @@
         <div class="row align-items-center justify-content-xl-between">
           <div class="col-xl-6">
             <div class="copyright text-center text-xl-left text-muted">
-              &copy; 2020 <a href="https://wa.me/918129297698" class="font-weight-bold ml-1" target="_blank">Shiban Ashiq</a>
+              &copy; 2021 <a href="https://www.instagram.com/virk_pb05_/" class="font-weight-bold ml-1" target="_blank">Virk</a>
             </div>
           </div>
           <div class="col-xl-6">
             <ul class="nav nav-footer justify-content-center justify-content-xl-end">
               <li class="nav-item">
-                <a href="https://www.creative-tim.com" class="nav-link" target="_blank">Creative Tim</a>
+                <a href="https://virk.store" class="nav-link" target="_blank">VirkStore</a>
               </li>
               <li class="nav-item">
-                <a href="https://www.creative-tim.com/presentation" class="nav-link" target="_blank">About Us</a>
+                <a href="https://virk.store/about" class="nav-link" target="_blank">About Us</a>
               </li>
               <li class="nav-item">
-                <a href="http://blog.creative-tim.com" class="nav-link" target="_blank">Blog</a>
+                <a href="http://virk.store/blog" class="nav-link" target="_blank">Blog</a>
               </li>
               <li class="nav-item">
                 <a href="https://www.creative-tim.com/license" class="nav-link" target="_blank">License</a>
